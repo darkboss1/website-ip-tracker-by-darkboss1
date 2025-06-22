@@ -6,7 +6,7 @@ from pdf.pdf import PdfReport
 
 VERSION = '2.2.0'
 BANNER = f"""                           
-         @@@@@@@@@@@@@@@@@@@                      
+                               
       @@@@@@@@@@@@@@@@@@@@@@@@@                   
     @@@@@@@@             @@@@@@@@                 
   @@@@@@@                   @@@@@@@               
@@ -19,7 +19,7 @@ BANNER = f"""
   @@@@@@                     @@@@@@               
    @@@@@@@@               &@@@@@@@                
      @@@@@@@@@@%     #@@@@@@@@@@@@&@@        Developed by darkboss1       
-        @@@@@@@@@@@@@@@@@@@@@ @@@@@@@@@@        Version {VERSION}       
+                                                Version {VERSION}       
                                                 github.com/darkboss1     
                                          
                                   
