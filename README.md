@@ -6,10 +6,8 @@ pip install reportlab
 ```
 ## Clone the repository
 ```
-$ git clone https://github.com/Mazzya/website-ip-tracker.git
+$ git clone https://github.com/darkboss1/website-ip-tracker-by-darkboss1.git
 ```
-If you don't want to clone it, you can download it directly from [here](https://github.com/Mazzya/website-ip-tracker/releases).
-
 Once you have the project locally, you need to go to the application folder and run ```tracker.py```
 ## Usage
 ```
@@ -33,11 +31,12 @@ $ tracker.py -d www.google.com
  @@@@@@                       @@@@@@
  @@@@@/       Website IP      ,@@@@@
  @@@@@          Finder         @@@@@,
+               darkboss1        @@@@@,
  @@@@@                         @@@@@
  @@@@@@                       @@@@@@
   @@@@@@                     @@@@@@
    @@@@@@@@               &@@@@@@@
-     @@@@@@@@@@%     #@@@@@@@@@@@@&@@        Developed by darkboss1
+                                           Developed by darkboss1
                                                Version 2.2.0
                                               github.com/darkboss1
                                  
