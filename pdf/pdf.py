@@ -34,6 +34,6 @@ class PdfReport:
         pdf.drawText(ip_obj)
         pdf.setFont(font, 12)
         pdf.drawCentredString(300, 60, "Developed by Mazzya : https://github.com/darkbpss1")
-        pdf.drawCentredString(300, 40, "Project repository : https://github.com/mazzya/website-ip-tracker")
-        pdf.drawCentredString(300, 10, "Version : 1.1.1")
+        pdf.drawCentredString(300, 40, "Project repository : https://github.com/darkboss1/website-ip-tracker-by-darkboss1.git")
+        pdf.drawCentredString(300, 10, "Version : 2.2.0")
         pdf.save()
